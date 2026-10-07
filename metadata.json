@@ -1,0 +1,6 @@
+{
+  "name": "Alderton Family Mediation",
+  "description": "Calm, dignified family mediation and MIAM assessments supporting separated parents and couples across the East Midlands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
